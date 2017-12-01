@@ -185,7 +185,7 @@ h1 {
       #calendar .week .day#christmas-day {
         text-align: center; }
         #calendar .week .day#christmas-day svg {
-          height: 100%;
+          height: 100px;
           fill: #348834; }
         #calendar .week .day#christmas-day:hover svg {
           fill: #cfdef4; }
